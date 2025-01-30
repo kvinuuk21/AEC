@@ -1,2 +1,2 @@
 # AEC
-Author Vinod
+Author: Vinod
